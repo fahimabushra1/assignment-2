@@ -83,6 +83,15 @@
    color: rgb(192, 25, 117);
    padding-left: 2px;
 }
+.self-sec{
+    margin-top: 180px;
+    text-align: center;
+}
+.update{
+    font-size: 40px;
+    color: rgb(209, 43, 126);
+    font-weight: 900;
+}
 /*----------------------
     Media Quaries
 -----------------------*/
