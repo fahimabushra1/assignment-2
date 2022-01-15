@@ -4,6 +4,7 @@
  body{
     font-family: 'Poppins', sans-serif;
     margin: 80px 120px;
+    align-items: center;
  }
  /*-------------
   header style
@@ -22,8 +23,17 @@
     margin-right: 20px;
     font-size: 10px;
 }
-.prebook-arrow{
+.journey{
+    display: flex;
+}
+.arrow{
     color: white;
     background-color: rgb(216, 55, 154);
     text-decoration-line: none;
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 10px;
+}
+.fa-star filled{
+    color: rgb(255, 187, 0);
 }
